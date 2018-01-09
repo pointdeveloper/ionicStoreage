@@ -1,5 +1,5 @@
 # Ionic Firebase Analytics Demo
-Full tutorial [here]( http://pointdeveloper.com/firebase-analytics-for-ionic-apps-logging-custom-events/)
+Full tutorial [here]( https://pointdeveloper.com/use-ionic-storage-save-data-ionic-app/)
 
 <br/>
 
