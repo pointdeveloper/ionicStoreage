@@ -1,4 +1,4 @@
-# Ionic Local Storage
+# Ionic Storage Demo
 Full tutorial [here]( https://pointdeveloper.com/use-ionic-storage-save-data-ionic-app/)
 
 <br/>
