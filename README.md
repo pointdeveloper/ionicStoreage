@@ -1,4 +1,4 @@
-# Ionic Firebase Analytics Demo
+# Ionic Local Storage
 Full tutorial [here]( https://pointdeveloper.com/use-ionic-storage-save-data-ionic-app/)
 
 <br/>
